@@ -1,0 +1,11 @@
+.postpage {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+
+}
+
+.postpagecell {
+    width: 48%;
+
+}
