@@ -1,0 +1,16 @@
+.albumpage {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    flex-direction: column;
+
+
+}
+
+.albumpagecell {
+    width: 48%;
+    display: flex;
+    flex-direction: column;
+
+}
+

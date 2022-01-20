@@ -1,0 +1,10 @@
+.userpage {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+
+}
+
+.userpagecell {
+    width: 48%;
+}
